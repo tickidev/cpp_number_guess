@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Dev\GitHub Repos\cpp_number_guess\number_guess\x64\Debug\number_guess.exe</FullPath>
+      <FullPath>C:\Dev\cpp_number_guess\x64\Debug\cpp_number_guess.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

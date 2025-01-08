@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Dev\cpp_number_guess\main.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  cpp_number_guess.vcxproj -> C:\Dev\cpp_number_guess\x64\Debug\cpp_number_guess.exe
